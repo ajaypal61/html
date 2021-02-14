@@ -1,0 +1,14 @@
+p{
+    color:rgb(223, 28, 28);
+    display: inline-block;
+
+}
+ #redelemant {
+     color: yellowgreen;
+     background-color: red;
+     font-size: 30px;
+     border: 2px dotted black;
+ }
+ .d-none{
+     display: inline;
+ }

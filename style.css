@@ -1,0 +1,18 @@
+p{
+    background-color: yellow; 
+    font-size: 30px;
+    color: green;
+    border: 5px solid red;
+    padding: 90px;
+    letter-spacing: 1px;
+    text-indent: 700px;
+    text-shadow: 2px 2px 5px green;
+    /* background-image: url("https://source.unsplash.com/user/erondu/160x90"); */
+}
+h1{
+    background-color: red;
+    line-height: 100px;
+    text-align: center;
+    font-size: 50px;
+   
+}
